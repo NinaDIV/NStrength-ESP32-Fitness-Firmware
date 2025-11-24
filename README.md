@@ -53,7 +53,7 @@ Este proyecto demuestra competencias en las siguientes áreas:
 Este proyecto es propiedad intelectual del autor. Actualmente, **no se aceptan contribuciones externas ni clonaciones** para uso comercial.
 
 * **Desarrollador:** Milward Fernando Nina Mayta
-* **Contacto:** [Tu correo o LinkedIn aquí]
+* **Contacto:** linkedin.com/in/milward-nina 
 
 ---
 © 2024 NStrength Project. Todos los derechos reservados.
