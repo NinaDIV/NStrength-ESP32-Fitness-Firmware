@@ -25,7 +25,7 @@ Modelado 3D personalizado para alojar la electrónica de forma ergonómica en la
 
 ### 3. Integración y Circuitería (V1)
 Primeras pruebas de soldadura e integración del circuito de gestión de energía y sensores en el espacio reducido.
-![Prototipo V1](Galeria/Prototipov1.png)
+![Prototipo V1](Galeria/PrototipoV1.png) 
 
 ### 4. Prototipo Funcional (V2)
 Dispositivo ensamblado y funcional mostrando la interfaz de usuario en la pantalla OLED.
